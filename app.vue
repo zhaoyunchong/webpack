@@ -18,6 +18,9 @@
 		methods:{
 			handleClick:function(e){
 				console.log(e)
+			},
+			created(){
+				console.log('hello woorld')
 			}
 		}
 	}
