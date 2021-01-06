@@ -17,7 +17,8 @@
 		},
 		methods:{
 			handleClick:function(e){
-				console.log(e)
+				console.log(e);
+				console.log('hello world')
 			},
 			created(){
 				console.log('hello woorld')
