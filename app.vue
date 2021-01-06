@@ -18,7 +18,8 @@
 		methods:{
 			handleClick:function(e){
 				console.log(e);
-				console.log('hello world')
+				console.log('hello world');
+				console.log('整个')
 			},
 			created(){
 				console.log('hello woorld')
