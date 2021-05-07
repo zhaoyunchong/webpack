@@ -1,6 +1,7 @@
 <template>
 	<h1>
 		<a :href="`#`+title">{{title}}</a>
+		hello world
 	</h1>
 </template>
 <script>
